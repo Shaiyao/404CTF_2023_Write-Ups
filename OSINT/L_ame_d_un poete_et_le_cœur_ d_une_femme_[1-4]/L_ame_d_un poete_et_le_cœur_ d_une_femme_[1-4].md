@@ -6,10 +6,10 @@ Une jeune femme s'approche de votre table : « Bonjour, j'ai cru comprendre que 
 
 En recherchant Louise Colet sur Facebook
 
-<img alt="flag" src="search.jpg" width=500>
+<img alt="recherche" src="search.jpg" width=500>
 
 nous tombons sur ce profil https://www.facebook.com/profile.php?id=100091643933854,
-<img alt="flag" src="louise.jpg" width=500>
+<img alt="profil de Louise" src="louise.jpg" width=500>
 
 qui contient le flag dans sa description
 

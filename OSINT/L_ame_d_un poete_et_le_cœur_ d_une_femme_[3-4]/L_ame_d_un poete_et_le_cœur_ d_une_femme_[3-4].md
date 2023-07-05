@@ -8,10 +8,10 @@ Trouvez une invitation pour rejoindre le salon
 
 En recherchant Louise Colet sur GitHub
 
-<img alt="flag" src="search.jpg" width=500>
+<img alt="recherche" src="search.jpg" width=500>
 
 nous tombons sur https://github.com/LouiseRevoil/Salon-litteraire-de-Louise-Colet,
-<img alt="flag" src="louise.jpg" width=500>
+<img alt="profil de louise" src="louise.jpg" width=500>
 
 ainsi que sur le flag et le lien d'invitation, qui sont dans le README
 
